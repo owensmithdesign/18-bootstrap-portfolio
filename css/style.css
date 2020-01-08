@@ -1,0 +1,144 @@
+.customNav {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(55, 58, 60, 0.697) !important;
+    background-size: cover;
+    z-index: 10;
+    color: white;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+    color: white;
+  }
+  .customNav a {
+    color: white !important;
+  }
+  /* jumbotron */
+  .jumbotron {
+  background-image: url(../images/sunset.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Jumbotron copy */
+.jumboCopy {
+  width: 70%;
+  min-width: 300px;
+  max-width: 500px;
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  background: rgba(55, 58, 60, 0.597);
+  padding: 10px;
+  border-radius: 20px;
+
+}
+/* Cards */
+.content {
+  padding: 50px;
+}
+.sectionHeading {
+  text-align: center;
+}
+.showsNear  {
+  padding: 0px 30px 30px 30px;
+}
+.cardContainer {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.borderImage{
+  border: 1px solid gray;
+}
+
+/* Content */
+.sideAccent {
+  background: #007bff;
+  width: 15px;
+}
+.imageContainer img {
+  width: 100%;
+}
+.imageContainer {
+  padding: 50px;
+}
+.valueProp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.skillsHeading {
+  text-align: center;
+}
+.skillsAndTools{
+  margin: 0 auto;
+}
+.skillsList{
+  display: inline-block;
+  max-width: 300px;
+  margin: 0 auto;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.contactText{
+  margin: 0 auto;
+  display: block;
+}
+
+.contactCard{
+  margin: 0 auto;
+  display: block;
+  float: left;
+  min-width: 0;
+  background-color: #ECEEEF;
+}
+.roundedCircle{
+  max-width: 300px;
+}
+.img-max {
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+  
+ 
+}
+#contactImage{
+  padding: 20px;
+  margin: 0 auto;
+}
+.galleryHeading{
+  margin-top: 50px;
+}
+.galleryPhoto{
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  max-width: 700px;
+  min-width: 400px;
+}
+
+
+.caption{
+  padding: 20px;
+  margin: 0 auto;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
