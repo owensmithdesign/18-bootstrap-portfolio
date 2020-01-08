@@ -1,3 +1,4 @@
+
 .customNav {
     position: fixed;
     width: 100%;
@@ -93,6 +94,7 @@
   margin: 0 auto;
   margin-left: 60px;
   margin-right: 60px;
+  padding-bottom: 10px;
 }
 
 .contactText{
